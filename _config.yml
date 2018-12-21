@@ -106,8 +106,8 @@ author:
   name             : "Jiye Kim"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            : jiyeyep@gmail.com
+  location         : #"Somewhere"
+  email            : #""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
