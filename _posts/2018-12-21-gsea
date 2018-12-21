@@ -1,0 +1,21 @@
+---
+title: "GSEA와 ssGSEA"
+date: 2018-12-21 16:00:00 -0400
+categories: Bioinformatics
+tags: gsea geneset-analysis
+---
+
+Single-sample GSEA (ssGSEA), an extension of Gene Set Enrichment Analysis
+(GSEA), calculates separate enrichment scores for each pairing of a sample and gene
+set. 
+
+ssGSEA는 GSEA와 다르게 각각의 sample과 geneset간의 enrichment score를 계산해 준다 (GSEA는 샘플 그룹별 enrichment score계산). 
+
+Each ssGSEA enrichment score represents the degree to which the genes in a
+particular gene set are coordinately up- or down-regulated within a sample. In this
+manner ssGSEA projects a single sample’s gene expression profile from the space of
+single genes onto the space of gene sets. Any supervised or unsupervised machine
+learning technique can then be applied to the resulting projected dataset. The benefit
+here is that the ssGSEA projection transforms the data to a higher-level (pathways
+instead of genes) space representing a more biologically interpretable set of features on
+which analytic methods can be applied.
