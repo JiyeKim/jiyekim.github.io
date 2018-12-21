@@ -129,7 +129,7 @@ author:
       url: "https://www.instagram.com/yeyeyo__/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: #"https://github.com/JiyeKim"
+      # url: "https://github.com/JiyeKim"
 
 
 # Site Footer
