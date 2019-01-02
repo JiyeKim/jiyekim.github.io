@@ -1,3 +1,9 @@
+---
+title: "Markdown emoji"
+date: 2019-01-02 00:00:00 -0400
+categories: markdown etc
+---
+
 from https://gist.github.com/rxaviers/7360908
 
 People
