@@ -2,7 +2,7 @@
 title: "Drug repositioning in epilepsy reveals novel antiseizure candidates"
 date: 2019-01-08 08:00:00 -0400
 categories: DrugDiscovery
-https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.703
+url: https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.703
 ---
 
 ## Abstract
