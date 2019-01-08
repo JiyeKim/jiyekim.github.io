@@ -2,7 +2,6 @@
 title: "Drug repositioning in epilepsy reveals novel antiseizure candidates"
 date: 2019-01-08 08:00:00 -0400
 categories: DrugDiscovery
-url: https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.703
 ---
 
 ## Abstract
@@ -12,4 +11,5 @@ url: https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.703
 - Identified **689 DEGs** from RNA-seq (spiking vs. nonspiking biopsies) --> **148 DEGs of which were previously cited** in articles mentioning seizures or epolepsy.
 - Matched with Protein-Protein interactions and formed **3 clusters** with associated GO-terms including myelination, protein ubiquitinatio, and neuronal migration.
 
-
+## URL
+- https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.703
