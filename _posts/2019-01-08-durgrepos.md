@@ -42,7 +42,7 @@ categories: DrugDiscovery Bioinformatics RNASeq
 - and, the mean of these values was aggregated across all DE transcripts mapping to a single gene
 
 ## Table2의 "Coefficient"?
-아래는 DE coefficient를 계산한 방법인데, 매우 헷갈림. 단 DE coefficient는 각각의 contrast로 부터 구해신 coefficient값의 합산이며, 이것의 의미는 direction of effect가 되는 것임
+아래는 DE coefficient를 계산한 방법인데, 매우 헷갈림. 쉽게? 요약하자면, DE coefficient는 각각의 contrast (총 6개)로 부터 구해진 coefficient값의 합산이며, 이것의 의미는 direction of effect가 되는 것임. effect의 방향이 일관될 수록 |coefficient| 값이 커짐
 - Gene-level summaries of direction of effect were computed for the DE transcripts described above. First, for
 each contrast, the coefficient median was calculated, and
 the mean of these values was aggregated across all DE
