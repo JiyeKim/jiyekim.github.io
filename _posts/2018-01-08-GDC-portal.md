@@ -4,7 +4,7 @@ date: 2019-01-08 09:00:00 -0400
 categories: Cancer Bioinformatics Database
 ---
 
-Genomic Data Commons (GDC)는 NCI [^1] 에서 운영하는 연구 프로그램으로, TCGA, TARGET 등 여러 암 연구 프로젝트로 부터 생성된 genomic data를 저장하고 공유할 수 있는 community 이다.
+Genomic Data Commons (GDC; https://portal.gdc.cancer.gov)는 NCI [^1] 에서 운영하는 연구 프로그램으로, TCGA, TARGET 등 여러 암 연구 프로젝트로 부터 생성된 genomic data를 저장하고 공유할 수 있는 community 이다.
 
 ## Data Levels
 - Level 1: Raw data
@@ -23,8 +23,5 @@ Genomic Data Commons (GDC)는 NCI [^1] 에서 운영하는 연구 프로그램�
 | Copy number | Data segmentation | Copy number calls | Gene amplification/deletion |
 
 
-## URL
-- https://portal.gdc.cancer.gov
-
-
+## Note
 [^1]: National Cancer Institute. a part of National Institutes of Health (NIH)
