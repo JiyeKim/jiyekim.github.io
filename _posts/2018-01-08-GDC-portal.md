@@ -25,12 +25,17 @@ GDC Data Portal에서 제공하는 데이터는 자유롭게 이용할 수 있�
 | Whole genome-seq | Genome alignment | Mutations + SV | Translocations |
 | RNA-seq | Genome alignment | Digital gene expression | Relative RNA levels, Alternative splicing |
 | Copy number | Data segmentation | Copy number calls | Gene amplification/deletion |
-
+  
+   
+   
 이렇게 다양한 데이터를 관리 해야하다보니까 Data 구조를 정밀하게 설계할 필요가 있겠다는 생각이 들었다. 아래는 GDC Data 모델이다. 엄청나다.
 
 
 ![GDC data model](https://gdc.cancer.gov/files/public/image/all_nodes_040318.png)
 > GDC Data Model (from GDC hompage)
+
+
+연구소에서 다양한 in-house 데이터를 축적하다보면 GDC Portal과 같은 역할을 하는 자체 repository 구축이 필요하다는 생각을 하게된다. 그 때 이미 잘 만들어져 있는 GDC Portal, cBioPortal 같은 프로젝트를 벤치마킹하면 좋을 것 같다.
 
 ## References
 - GDC Documentation: https://docs.gdc.cancer.gov/
