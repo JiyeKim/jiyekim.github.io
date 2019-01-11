@@ -12,6 +12,7 @@ categories: Cancer Bioinformatics Database
 - Level 0: No Level
 
 ## Data Types
+
 | type | level 1 | level 2 | level 3 |
 | --- | --- | --- | --- |
 | Exom-seq | Genome alignment | Mutations | Oncogene vs. Tumor suppressor |
