@@ -29,6 +29,7 @@ GDC Data Portal에서 제공하는 데이터는 자유롭게 이용할 수 있�
    
    
 이렇게 다양한 데이터를 관리 해야하다보니까 Data 구조를 정밀하게 설계할 필요가 있겠다는 생각이 들었다. 아래는 GDC Data 모델이다. 엄청나다.
+(1-2년만에 이런 체계적인 구조가 뚝딱 만들어 지진 않았을 꺼고, 오랜 시행착오의 결과이겠지...)
 
 
 ![GDC data model](https://gdc.cancer.gov/files/public/image/all_nodes_040318.png)
