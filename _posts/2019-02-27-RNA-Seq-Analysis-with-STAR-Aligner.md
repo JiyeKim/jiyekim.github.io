@@ -1,4 +1,10 @@
-# RNA-Seq Analysis with STAR Aligner
+---
+title: "RNA-Seq Analysis with STAR Aligner"
+date: 2019-02-27 08:00:00 -0400
+categories: Bioinformatics RNASeq
+---
+
+
 
 RNA-Seq mapping에 사용되는 STAR aligner는 SJ(splicing junction)을 다른 tool보다 정밀하게 인식한다는 장점이 있음. 두 번의 mapping을 거치는 2-pass mapping방법을 이용하면 좀더 정확하게 SJ를 인식하여 mapping시킬 수 있음.
 
