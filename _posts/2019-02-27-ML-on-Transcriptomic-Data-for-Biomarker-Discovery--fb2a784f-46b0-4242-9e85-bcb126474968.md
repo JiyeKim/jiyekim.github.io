@@ -16,6 +16,8 @@ ML기법을 통해 prediction model을 만드는 것이 목적이 아니라, pre
 
 참고) Drug target정보는 DrugBank, R, Reactome pathway database, NCI pathway database로 부터 얻음.  
 
+아래는 논문 주요문구 가져온 
+
 # Abstract
 
 - present a method for tracking age-related changes of human skeletal muscle.
@@ -58,12 +60,8 @@ Model Evaluation
 - epsilon - accuaracy
 - → used `multiclass.roc` function from the pROC R package to calculate multiclass area
 
-Feature Importance Analysis
-
-- 
-
+Feature Importance Analysis 
 Target Indentification
-
 External Validation
 
 ## Signaling Pathway Analysis
