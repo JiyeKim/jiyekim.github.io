@@ -1,11 +1,7 @@
-# ML on Transcriptomic Data for Biomarker Discovery and Tissue-Specific Drug Target Identification
-
 ---
-
-## title: "ML on Transcriptomic Data for Biomarker Discovery and Tissue-Specific Drug Target Identification"
+title: "ML on Transcriptomic Data for Biomarker Discovery and Tissue-Specific Drug Target Identification"
 date: 2019-02-27 09:00:00 -0400
 categories: Bioinformatics GEO
-
 ---
 
 [Machine Learning on Human Muscle Transcriptomic Data for Biomarker Discovery and Tissue-Specific Drug Target Identification](https://www.frontiersin.org/articles/10.3389/fgene.2018.00242/full)
