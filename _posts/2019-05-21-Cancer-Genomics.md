@@ -10,8 +10,7 @@ categories: Cancer Bioinformatics
 환자의 Muation을 유전자별로 한 눈에 보이도록 만든 plot임. 폭포처럼 생겼다해서 waterfall plot.  
 R의 "GenVisR" 팩키지로 waterfall plot을 그릴 수 있음
   
-참고 코드  
-> https://2wordspm.com/2018/07/17/%EC%8A%A4%ED%81%AC%EB%9E%A9-%EC%95%94%EC%9C%A0%EC%A0%84%EC%B2%B4-%EB%B6%84%EC%84%9D-waterfall-plot/
+참고 코드 ([출처](https://2wordspm.com/2018/07/17/%EC%8A%A4%ED%81%AC%EB%9E%A9-%EC%95%94%EC%9C%A0%EC%A0%84%EC%B2%B4-%EB%B6%84%EC%84%9D-waterfall-plot/))
   
 ```
 library(GenVisR)
