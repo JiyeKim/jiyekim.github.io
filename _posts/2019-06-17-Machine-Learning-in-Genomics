@@ -1,0 +1,21 @@
+---
+title: "Machine Learning in Genomics"
+date: 2019-06-17 09:00:00 -0400
+categories: ML DL AI ComputerScience Bioinformatics 
+---
+
+Genomic data에 어떻게 ML/DL기술을 적용할 것인가에 대해서 늘 불분명했는데 [여기](https://3months.tistory.com/162?category=771507) 글을 읽고 나름대로 정리해 보았다.  
+
+초기에는 gene expression data를 통해 phenotye 예측하거나, 예측력이 높은 gene subset, signature를 찾는 연구를 진행 했다.
+autoencoder를 사용해서 labeling되지 않은 gene expression data를 가지고 tumor예측 classifier를 구현하기도 함
+
+유전자 일부의 발현 수치만 가지고도 다른 유전자의 발현 정도를 예측할 수 있다. 이는 유전자의 발현이 서로 연관되어 있기 때문이다.
+그래서 일부 유전자의 발현값만 알면되니까 실험비용 절감도 된다.  
+대표적인 케이스가 D-GEX이다. CMAP데이터셋을 이용해서 1000개 유전자발현값으로 나머지 유전자의 발현정도를 예측하는 DL모델이다.
+
+그리고, exon이나 transcript의 expression level만 가지고 DNA 서열을 예측하는 작업들도 진행되고 있다.
+원리는 exon 주변의 DNA서열을 통해 그 exon이 splice in될 확률 (PSI)를 예측한다고 한다.
+즉, 서열만 알면 그 서열의 mutation이나 expression의 변화로 인한 splicing effect정도를 측정할 수 도 있다.
+
+
+
