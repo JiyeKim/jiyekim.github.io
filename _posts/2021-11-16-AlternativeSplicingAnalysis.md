@@ -4,7 +4,7 @@ date: 2021-11-16 09:00:00 -0400
 categories: Bioinformatics RNAseq Transcriptome
 ---
 
-# Alternative Splicing 분석
+# MATS이용해서 Alternative Splicing 분석
 
 ## 개요
 두 샘플 그룹 (약믈 처리 전,후)간 Alternative Splicing Event 변화 확인분석. 최종 목표는 약물에 sensitive한 model1,2와 resistant한 model3간 AS 패턴의 차이를 확인 하는 것이다.
