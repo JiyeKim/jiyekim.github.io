@@ -1,12 +1,13 @@
 ---
 title: "Drug Target Inference (약물 타겟 예측) "
-date: 2018-01-20 08:00:00 -0400
+date: 2023-07-11 08:00:00 -0400
 categories: Bioinformatics drugdevelopment
 ---
-
+   
+   
 omics data 기반 약물 타겟 예측 관련하여 나와있는 논문을 살펴보았다.
 
-TREAP: A New Topological Approach to Drug Target Inference (2020, Muying Wang)
+1. TREAP: A New Topological Approach to Drug Target Inference (2020, Muying Wang)
 
 - 약물의 절반이상은 임상 3상에서 실패한다고 함, 실패 이유는 약물 MoA에 대해 잘 모르는 상태에서 진행 했기 때문인데 기존에 개발된 툴인 ProTINA, DeMAND는 너무 복잡하다고...
 - 게다가 약물처리 후 유전자 발현값이나 네트워크 토폴로지가 약물 타겟과 관련하여 큰 영향을 주는 인자인지도 알 수 없음
@@ -21,4 +22,5 @@ TREAP: A New Topological Approach to Drug Target Inference (2020, Muying Wang)
 - 평가: L1000 CDS 나 LINCS search tool과 다른 방법: 기존 gene expression에 p-p, p-g도 이용, network topology 기반, 기존 방법은 유사한 drug 찾는 방법이지 target 예측 방법은 아님
 
 참고
-- https://brunch.co.kr/@dimension-value/12
+- TREAP: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7732766/
+- 
