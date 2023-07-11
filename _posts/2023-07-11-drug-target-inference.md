@@ -1,5 +1,5 @@
 ---
-title: "Drug Target Inference (약물 타겟 예측) "
+title: "Drug Target Inference (약물 타겟 예측)"
 date: 2023-07-11 08:00:00 -0400
 categories: Bioinformatics drugdevelopment
 ---
